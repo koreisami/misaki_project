@@ -30,10 +30,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Questions and answers from the LibreOffice community&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200322T070155Z" creationid="ishikawa" creationdate="20200322T070155Z">
+        <seg>&lt;f0&gt;Questions and answers from the LibreOffice コミュニティへ質問をし、回答をもらうことができます。&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;This site provides support for LibreOffice, among other programs:&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="ja" changeid="ishikawa" changedate="20200322T065304Z" creationid="ishikawa" creationdate="20200322T065304Z">
         <seg>&lt;f0&gt;このサイトではLibreOffice や他のプログラムに関連したサポートを受けられます:&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;User guides, how-tos, and other documentation.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200322T070511Z" creationid="ishikawa" creationdate="20200322T070511Z">
+        <seg>&lt;f0&gt;ユーザーガイド、ハウツー、他のドキュメント</seg>
       </tuv>
     </tu>
     <tu>
@@ -94,10 +110,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Documentation</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200322T070205Z" creationid="ishikawa" creationdate="20200322T070205Z">
+        <seg>ドキュメント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For a more detailed explanation, select &lt;f0&gt;Help &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; What's This?&lt;/f3&gt;&lt;f4&gt; and hold the pointer over the icon.&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="ja" changeid="ishikawa" changedate="20200322T064156Z" creationid="ishikawa" creationdate="20200322T064156Z">
         <seg>より詳細な説明が必要な場合,  &lt;f0&gt;ヘルプ &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;これは何？&lt;/f3&gt;&lt;f4&gt; を選びアイコンが固定化され、詳しい説明が表示されます。&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Free LibreOffice support</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200322T070056Z" creationid="ishikawa" creationdate="20200322T070056Z">
+        <seg>LibreOffice サポート（フリー）</seg>
       </tuv>
     </tu>
     <tu>
@@ -206,6 +238,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Table &lt;seq0&gt;1&lt;/seq0&gt;: Free support for LibreOffice users</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200322T070037Z" creationid="ishikawa" creationdate="20200322T070037Z">
+        <seg>表 &lt;seq0&gt;1&lt;/seq0&gt;:LibreOffice のユーザのためのサポートサイト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The LibreOffice community not only develops software, but provides free, volunteer-based support.</seg>
       </tuv>
       <tuv lang="ja" changeid="ishikawa" changedate="20200322T064301Z" creationid="ishikawa" creationdate="20200322T064301Z">
@@ -258,6 +298,14 @@
       </tuv>
       <tuv lang="ja" changeid="ishikawa" changedate="20200322T062514Z" creationid="ishikawa" creationdate="20200322T062514Z">
         <seg>&lt;f0&gt;F1&lt;/f0&gt;ボタンを押すまたは、 ヘルプメニューから&lt;f1&gt;LibreOffice ヘルプ&lt;/f1&gt;を選ぶことで全ヘルプシステムを使用できます</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>User guides</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200322T070216Z" creationid="ishikawa" creationdate="20200322T070216Z">
+        <seg>ユーザーガイド</seg>
       </tuv>
     </tu>
     <tu>
