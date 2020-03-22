@@ -294,6 +294,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>On a Mac operating system, go to &lt;f0&gt;LibreOffice &gt; Preferences &gt; General&lt;/f0&gt; on the main menu bar to open the dialog for general options.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200322T075519Z" creationid="ishikawa" creationdate="20200322T075519Z">
+        <seg>Mac の場合、メインバー上の&lt;f0&gt;LibreOffice &gt; Preferences &gt; General&lt;/f0&gt;より設定できます。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Other websites run by users also offer free tips and tutorials.</seg>
       </tuv>
       <tuv lang="ja" changeid="ishikawa" changedate="20200322T064946Z" creationid="ishikawa" creationdate="20200322T064946Z">
