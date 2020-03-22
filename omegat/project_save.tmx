@@ -150,6 +150,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to save your settings and close the dialog.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200322T080120Z" creationid="ishikawa" creationdate="20200322T080120Z">
+        <seg> &lt;f0&gt;OK&lt;/f0&gt; をクリックし、設定を保存し、ダイアログを閉じてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Contributors</seg>
       </tuv>
       <tuv lang="ja" changeid="ishikawa" changedate="20200322T053201Z" creationid="ishikawa" creationdate="20200322T053201Z">
