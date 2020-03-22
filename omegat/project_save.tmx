@@ -14,6 +14,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Contributors</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200322T053201Z" creationid="ishikawa" creationdate="20200322T053201Z">
+        <seg>コントリビューター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Please direct any comments or suggestions about this document to &lt;f0&gt;the Documentation Team’s mailing list&lt;/f0&gt;: &lt;a1&gt;documentation@global.libreoffice.org&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200322T053334Z" creationid="ishikawa" creationdate="20200322T053334Z">
+        <seg>このドキュメントへのコメント提案は &lt;f0&gt;ドキュメントチームメーリングリスト&lt;/f0&gt;: &lt;a1&gt;documentation@global.libreoffice.org&lt;/a1&gt;に投稿してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Preface</seg>
       </tuv>
       <tuv lang="ja" changeid="ishikawa" changedate="20200322T031333Z" creationid="ishikawa" creationdate="20200322T031333Z">
