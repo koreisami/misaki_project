@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;LibreOffice&lt;/f0&gt; comes with an extensive &lt;is1/&gt;Help system&lt;ie2/&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200322T062122Z" creationid="ishikawa" creationdate="20200322T062122Z">
+        <seg>&lt;f0&gt;LibreOffice&lt;/f0&gt; の豊富な&lt;is1/&gt;Help システム&lt;ie2/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Acknowledgements</seg>
       </tuv>
       <tuv lang="ja" changeid="ishikawa" changedate="20200322T054454Z" creationid="ishikawa" creationdate="20200322T054454Z">
@@ -138,6 +146,22 @@
       </tuv>
       <tuv lang="ja" changeid="ishikawa" changedate="20200322T031856Z" creationid="ishikawa" creationdate="20200322T031856Z">
         <seg>このドキュメントは Copyright &lt;f0&gt;©&lt;/f0&gt; &lt;f1&gt;2012–2014&lt;/f1&gt; by &lt;f2&gt;the LibreOffice Documentation Team です。&lt;/f2&gt; &lt;f3&gt;&lt;/f3&gt;この文章に関する貢献者は &lt;f4&gt;&lt;/f4&gt;以下に列挙されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This is your first line of support for using &lt;f3&gt;LibreOffice&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200322T062207Z" creationid="ishikawa" creationdate="20200322T062207Z">
+        <seg>これは &lt;f3&gt;LibreOffice&lt;/f3&gt;サポートでまず使うものです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To display the full Help system, press &lt;f0&gt;F1&lt;/f0&gt; or select &lt;f1&gt;LibreOffice Help&lt;/f1&gt; from the Help menu.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200322T062514Z" creationid="ishikawa" creationdate="20200322T062514Z">
+        <seg>&lt;f0&gt;F1&lt;/f0&gt;ボタンを押すまたは、 ヘルプメニューから&lt;f1&gt;LibreOffice ヘルプ&lt;/f1&gt;を選ぶことで全ヘルプシステムを使用できます</seg>
       </tuv>
     </tu>
     <tu>
