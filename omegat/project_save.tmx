@@ -326,6 +326,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Note for Mac users</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200322T081848Z" creationid="ishikawa" creationdate="20200322T081848Z">
+        <seg>Mac ユーザー向けの情報</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>On Linux and Windows operating systems, go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; General&lt;/f0&gt; on the main menu bar to open the dialog for general options.</seg>
       </tuv>
       <tuv lang="ja" changeid="ishikawa" changedate="20200322T075218Z" creationid="ishikawa" creationdate="20200322T075218Z">
@@ -410,6 +418,14 @@
       </tuv>
       <tuv lang="ja" changeid="ishikawa" changedate="20200322T080022Z" creationid="ishikawa" creationdate="20200322T080022Z">
         <seg>開く/保存 ダイアログ上で&lt;f0&gt;Use LibreOffice ダイアログ&lt;/f0&gt;  &lt;f1&gt;を選び&lt;/f1&gt; &lt;f2&gt;Linux と Mac OS X では, &lt;/f2&gt;&lt;f3&gt;印刷 ダイアログ &lt;/f3&gt;の表示をあなたのコンピュータの表示にしてください</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Some keystrokes and menu items are different on a Mac from those used in Windows and Linux.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200322T082042Z" creationid="ishikawa" creationdate="20200322T082042Z">
+        <seg>キーストローク と メニュー が Mac版はWindows 版とLinux版とは異なります。</seg>
       </tuv>
     </tu>
     <tu>
