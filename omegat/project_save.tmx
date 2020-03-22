@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;You&lt;/f0&gt; can get comprehensive online &lt;is1/&gt;support&lt;ie2/&gt; from the community through mailing lists &lt;f3&gt;and&lt;/f3&gt; &lt;f4&gt;the Ask LibreOffice website, &lt;/f4&gt;&lt;a5&gt;&lt;f6&gt;http://ask.libreoffice.org/en/questions/&lt;/f6&gt;&lt;/a5&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200322T064838Z" creationid="ishikawa" creationdate="20200322T064838Z">
+        <seg>&lt;f0&gt;あなたはコミュニティのメーリングリストから&lt;/f0&gt;オンライン&lt;is1/&gt;サポート&lt;ie2/&gt;を広くうけられます。また &lt;f3&gt;&lt;/f3&gt; &lt;f4&gt; Ask LibreOffice のウェブサイトでも &lt;/f4&gt;&lt;a5&gt;&lt;f6&gt;http://ask.libreoffice.org/en/questions/&lt;/f6&gt;&lt;/a5&gt;うけられます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Acknowledgements</seg>
       </tuv>
       <tuv lang="ja" changeid="ishikawa" changedate="20200322T054454Z" creationid="ishikawa" creationdate="20200322T054454Z">
