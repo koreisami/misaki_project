@@ -158,6 +158,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Based on LibreOffice &lt;f1&gt;4.2.2&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200322T081658Z" creationid="ishikawa" creationdate="20200322T081658Z">
+        <seg>LibreOffice &lt;f1&gt;4.2.2&lt;/f1&gt;に基づいています.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Based on LibreOffice &lt;f1&gt;4.2&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="ja" changeid="ishikawa" changedate="20200322T053933Z" creationid="ishikawa" creationdate="20200322T053933Z">
@@ -370,6 +378,14 @@
       </tuv>
       <tuv lang="ja" changeid="ishikawa" changedate="20200322T053852Z" creationid="ishikawa" creationdate="20200322T053852Z">
         <seg>このドキュメントの発行日と対応するソフトウェアのバージョン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Published &lt;f0&gt;18 May 2014&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200322T081646Z" creationid="ishikawa" creationdate="20200322T081646Z">
+        <seg>発行日 &lt;f0&gt;2014年５月１８日&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
