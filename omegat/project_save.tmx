@@ -118,6 +118,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Also, some of the dialogs may be differ because of the settings selected in LibreOffice.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200322T074449Z" creationid="ishikawa" creationdate="20200322T074418Z">
+        <seg>また、LibreOfficeの設定によって、ダイアログが異なる場合があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Alternatively, you can pay for support services&lt;f0&gt;.</seg>
       </tuv>
       <tuv lang="ja" changeid="ishikawa" changedate="20200322T065506Z" creationid="ishikawa" creationdate="20200322T065506Z">
@@ -360,8 +368,16 @@
       <tuv lang="en-US">
         <seg>The illustrations in this guide were taken from a variety of computers and operating systems.</seg>
       </tuv>
-      <tuv lang="ja" changeid="ishikawa" changedate="20200322T074236Z" creationid="ishikawa" creationdate="20200322T074236Z">
-        <seg>このガイド上の外観は様々なコンピュータやオペレーティングシステムから利用できるものになってます。</seg>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200322T074242Z" creationid="ishikawa" creationdate="20200322T074236Z">
+        <seg>このガイド上の外観は、様々なコンピュータやオペレーティングシステムから利用できるものになってます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Therefore, some illustrations will not look exactly like what you see on your computer display.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200322T074341Z" creationid="ishikawa" creationdate="20200322T074341Z">
+        <seg>従って, あなたのコンピュータに見えているものと外観が異なる場合が有ります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -474,6 +490,14 @@
       </tuv>
       <tuv lang="ja" changeid="ishikawa" changedate="20200322T055324Z" creationid="ishikawa" creationdate="20200322T054406Z">
         <seg>だれがこのドキュメントを書いたか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can either use dialogs from your computer system (default) or dialogs provided by LibreOffice.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200322T074924Z" creationid="ishikawa" creationdate="20200322T074924Z">
+        <seg>あなたは、システムのデフォルトのダイアログまたはLibreOffice から配布された時のダイアログを使用することができます。</seg>
       </tuv>
     </tu>
     <tu>
