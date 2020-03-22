@@ -20,6 +20,14 @@
         <seg>このドキュメントは Copyright &lt;f0&gt;©&lt;/f0&gt; &lt;f1&gt;2012–2014&lt;/f1&gt; by &lt;f2&gt;the LibreOffice Documentation Team です。&lt;/f2&gt; &lt;f3&gt;&lt;/f3&gt;この文章に関する貢献者は &lt;f4&gt;&lt;/f4&gt;以下に列挙されています。</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You may distribute or modify it under the terms of either the GNU General Public License (&lt;a5&gt;http://www.gnu.org/licenses/gpl.html&lt;/a5&gt;), version 3 or later, or the Creative Commons Attribution License (&lt;a6&gt;&lt;f7&gt;http://creativecommons.org/licenses/by/4.0/&lt;/f7&gt;&lt;/a6&gt;), version &lt;f8&gt;4&lt;/f8&gt;.0 or later.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200322T052721Z" creationid="ishikawa" creationdate="20200322T052721Z">
+        <seg>このドキュメントは、GNU General Public License (&lt;a5&gt;http://www.gnu.org/licenses/gpl.html&lt;/a5&gt;), バージョン3以降,または Creative Commons Attribution License (&lt;a6&gt;&lt;f7&gt;http://creativecommons.org/licenses/by/4.0/&lt;/f7&gt;&lt;/a6&gt;), バージョン４以降に基づいて変更及び配布することができます。&lt;f8&gt;&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
