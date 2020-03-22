@@ -470,6 +470,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The table below gives some common substitutions for the instructions in this chapter.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200322T085417Z" creationid="ishikawa" creationdate="20200322T085417Z">
+        <seg>したの表 gives some common substitutions for the instructions in this chapter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Therefore, some illustrations will not look exactly like what you see on your computer display.</seg>
       </tuv>
       <tuv lang="ja" changeid="ishikawa" changedate="20200322T074341Z" creationid="ishikawa" creationdate="20200322T074341Z">
