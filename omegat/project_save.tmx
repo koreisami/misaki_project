@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;This chapter is based on Chapter 1 of the &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;OpenOffice.org 3.3 &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;Impress &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;Guide&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200322T081550Z" creationid="ishikawa" creationdate="20200322T081550Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;この章は &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;OpenOffice.org 3.3 &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;Impress &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;Guide&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;に基づいています.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Answers to frequently asked questions&lt;/f0&gt;&lt;f1&gt;&lt;br2/&gt;</seg>
       </tuv>
       <tuv lang="ja" changeid="ishikawa" changedate="20200322T070542Z" creationid="ishikawa" creationdate="20200322T070542Z">
@@ -105,6 +113,14 @@
         <seg>Acknowledgements</seg>
       </tuv>
       <tuv lang="ja" changeid="ishikawa" changedate="20200322T054454Z" creationid="ishikawa" creationdate="20200322T054454Z">
+        <seg>謝辞</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Acknowledgments</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200322T081509Z" creationid="ishikawa" creationdate="20200322T081509Z">
         <seg>謝辞</seg>
       </tuv>
     </tu>
