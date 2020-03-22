@@ -14,10 +14,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Acknowledgements</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200322T054454Z" creationid="ishikawa" creationdate="20200322T054454Z">
+        <seg>謝辞</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>All trademarks within this guide belong to their legitimate owners.</seg>
       </tuv>
       <tuv lang="ja" changeid="ishikawa" changedate="20200322T053153Z" creationid="ishikawa" creationdate="20200322T053153Z">
         <seg>このガイドのトレードマークは正式な所有者の所有物です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Anyone who wants to get up to speed quickly with LibreOffice Impress will find this book valuable.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200322T054748Z" creationid="ishikawa" creationdate="20200322T054748Z">
+        <seg>LibreOffice Impress を速やかに習得したい人に、この本はとても有用なものです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -122,6 +138,14 @@
       </tuv>
       <tuv lang="ja" changeid="ishikawa" changedate="20200322T054106Z" creationid="ishikawa" creationdate="20200322T054106Z">
         <seg>このドキュメントは誰のためのものか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Who wrote this book?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200322T054406Z" creationid="ishikawa" creationdate="20200322T054406Z">
+        <seg>だれがこの本を書いたか?</seg>
       </tuv>
     </tu>
     <tu>
