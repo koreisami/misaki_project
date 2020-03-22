@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="en-US">
+        <seg>Preface</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200322T031333Z" creationid="ishikawa" creationdate="20200322T031333Z">
+        <seg>導入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This document is Copyright © 2012–2014 by the LibreOffice Documentation Team. Contributors are listed below.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200322T031856Z" creationid="ishikawa" creationdate="20200322T031856Z">
+        <seg>このドキュメントは Copyright © 2012–2014 by the LibreOffice Documentation Team です。 この文章に関する貢献者は 以下に列挙されています。</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Preface</seg>
+      </tuv>
+      <tuv xml:lang="ja" changeid="ishikawa" changedate="20200322T031333Z" creationid="ishikawa" creationdate="20200322T031333Z">
+        <seg>導入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This document is Copyright <bpt i="0" x="0">&lt;f0&gt;</bpt>©<ept i="0">&lt;/f0&gt;</ept> <bpt i="1" x="1">&lt;f1&gt;</bpt>2012–2014<ept i="1">&lt;/f1&gt;</ept> by <bpt i="2" x="2">&lt;f2&gt;</bpt>the LibreOffice Documentation Team.<ept i="2">&lt;/f2&gt;</ept> <bpt i="3" x="3">&lt;f3&gt;</bpt>C<ept i="3">&lt;/f3&gt;</ept>ontributors a<bpt i="4" x="4">&lt;f4&gt;</bpt>re<ept i="4">&lt;/f4&gt;</ept> listed below.</seg>
+      </tuv>
+      <tuv xml:lang="ja" changeid="ishikawa" changedate="20200322T031856Z" creationid="ishikawa" creationdate="20200322T031856Z">
+        <seg>このドキュメントは Copyright <bpt i="0" x="0">&lt;f0&gt;</bpt>©<ept i="0">&lt;/f0&gt;</ept> <bpt i="1" x="1">&lt;f1&gt;</bpt>2012–2014<ept i="1">&lt;/f1&gt;</ept> by <bpt i="2" x="2">&lt;f2&gt;</bpt>the LibreOffice Documentation Team です。<ept i="2">&lt;/f2&gt;</ept> <bpt i="3" x="3">&lt;f3&gt;</bpt><ept i="3">&lt;/f3&gt;</ept>この文章に関する貢献者は <bpt i="4" x="4">&lt;f4&gt;</bpt><ept i="4">&lt;/f4&gt;</ept>以下に列挙されています。</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="en-US">
+        <seg>Preface</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200322T031333Z" creationid="ishikawa" creationdate="20200322T031333Z">
+        <seg>導入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This document is Copyright &lt;f0&gt;©&lt;/f0&gt; &lt;f1&gt;2012–2014&lt;/f1&gt; by &lt;f2&gt;the LibreOffice Documentation Team.&lt;/f2&gt; &lt;f3&gt;C&lt;/f3&gt;ontributors a&lt;f4&gt;re&lt;/f4&gt; listed below.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200322T031856Z" creationid="ishikawa" creationdate="20200322T031856Z">
+        <seg>このドキュメントは Copyright &lt;f0&gt;©&lt;/f0&gt; &lt;f1&gt;2012–2014&lt;/f1&gt; by &lt;f2&gt;the LibreOffice Documentation Team です。&lt;/f2&gt; &lt;f3&gt;&lt;/f3&gt;この文章に関する貢献者は &lt;f4&gt;&lt;/f4&gt;以下に列挙されています。</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
