@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Based on LibreOffice &lt;f1&gt;4.2&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200322T053933Z" creationid="ishikawa" creationdate="20200322T053933Z">
+        <seg>Based on LibreOffice バージョン&lt;f1&gt;4.2&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Contributors</seg>
       </tuv>
       <tuv lang="ja" changeid="ishikawa" changedate="20200322T053201Z" creationid="ishikawa" creationdate="20200322T053201Z">
@@ -50,6 +58,14 @@
       </tuv>
       <tuv lang="ja" changeid="ishikawa" changedate="20200322T053852Z" creationid="ishikawa" creationdate="20200322T053852Z">
         <seg>このドキュメントの発行日と対応するソフトウェアのバージョン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Published &lt;f0&gt;23 August 2014&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200322T053917Z" creationid="ishikawa" creationdate="20200322T053917Z">
+        <seg>発行日 &lt;f0&gt;2014年８月２３日&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
