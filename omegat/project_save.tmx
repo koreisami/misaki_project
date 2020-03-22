@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Answers to frequently asked questions&lt;/f0&gt;&lt;f1&gt;&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200322T070542Z" creationid="ishikawa" creationdate="20200322T070542Z">
+        <seg>&lt;f0&gt;よくある質問に対する回答&lt;/f0&gt;&lt;f1&gt;&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;LibreOffice&lt;/f0&gt; comes with an extensive &lt;is1/&gt;Help system&lt;ie2/&gt;.</seg>
       </tuv>
       <tuv lang="ja" changeid="ishikawa" changedate="20200322T062122Z" creationid="ishikawa" creationdate="20200322T062122Z">
@@ -178,6 +186,14 @@
       </tuv>
       <tuv lang="ja" changeid="ishikawa" changedate="20200322T060453Z" creationid="ishikawa" creationdate="20200322T060453Z">
         <seg>Impress はMicrosoft PowerPoinnt フォーマットのファイルを開いたり、保存することができます。また、スライドをPDF、Adobe Flash 動画や他のフォーマットにエクスポートできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mailing lists</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200322T070551Z" creationid="ishikawa" creationdate="20200322T070551Z">
+        <seg>メーリングリスト</seg>
       </tuv>
     </tu>
     <tu>
