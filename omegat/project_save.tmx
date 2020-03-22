@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In addition, you can choose whether to activate Tips, Extended tips, and the Help Agent (using &lt;f2&gt;Tools &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;&gt;&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; Options &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;&gt;&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; LibreOffice &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;&gt;&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; General&lt;/f11&gt;).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200322T063049Z" creationid="ishikawa" creationdate="20200322T063049Z">
+        <seg>また 、追加情報や拡張情報、ヘルプエージェントを使用する場合 &lt;f2&gt;ツール &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;&gt;&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; オプション &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;&gt;&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; LibreOffice &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;&gt;&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; 全般&lt;/f11&gt;)で設定できます。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It can open and save to Microsoft PowerPoint formats and can export to PDF, HTML, Adobe Flash, and numerous graphic formats.</seg>
       </tuv>
       <tuv lang="ja" changeid="ishikawa" changedate="20200322T060453Z" creationid="ishikawa" creationdate="20200322T060453Z">
