@@ -6,10 +6,26 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;/f0&gt;&lt;a2&gt;&lt;f3&gt;http://wiki.documentfoundation.org/Local_Mailing_Lists&lt;/f3&gt;&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200322T072953Z" creationid="ishikawa" creationdate="20200322T072953Z">
+        <seg>&lt;/f0&gt;&lt;a2&gt;&lt;f3&gt;https://wiki.documentfoundation.org/Local_Mailing_Lists/ja&lt;/f3&gt;&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;/f0&gt;Service contracts can be purchased from a vendor or consulting firm specializing in LibreOffice&lt;f1&gt;.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ja" changeid="ishikawa" changedate="20200322T065946Z" creationid="ishikawa" creationdate="20200322T065946Z">
         <seg>&lt;/f0&gt;サービス契約は LibreOfficeを特化したベンダーまたはコンサルト企業から購入することができます。&lt;f1&gt;.&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;a1&gt;&lt;f2&gt;http://www.libreoffice.org/international-sites/&lt;/f2&gt;&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200322T072826Z" creationid="ishikawa" creationdate="20200322T072826Z">
+        <seg>&lt;a1&gt;&lt;f2&gt;https://ja.libreoffice.org/&lt;/f2&gt;&lt;/a1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -26,6 +42,14 @@
       </tuv>
       <tuv lang="ja" changeid="ishikawa" changedate="20200322T070542Z" creationid="ishikawa" creationdate="20200322T070542Z">
         <seg>&lt;f0&gt;よくある質問に対する回答&lt;/f0&gt;&lt;f1&gt;&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;International mailing lists&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200322T073008Z" creationid="ishikawa" creationdate="20200322T073008Z">
+        <seg>&lt;f0&gt;国際的なメーリングリスト&lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
