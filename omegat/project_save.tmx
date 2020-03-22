@@ -126,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This book, the other &lt;f0&gt;LibreOffice&lt;/f0&gt; user guides, the built-in Help system, and user support systems assume that you are familiar with your computer and basic functions such as starting a program, opening and saving files.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200322T061418Z" creationid="ishikawa" creationdate="20200322T061418Z">
+        <seg>このドキュメント、他の&lt;f0&gt;LibreOffice&lt;/f0&gt;ユーザーガイド、ソフトウェアに組み込まれたヘルプ、ユーザーサポートシステムは基本的なプログラムの立ち上げ方やファイルの開き方 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This document is Copyright &lt;f0&gt;©&lt;/f0&gt; &lt;f1&gt;2012–2014&lt;/f1&gt; by &lt;f2&gt;the LibreOffice Documentation Team.&lt;/f2&gt; &lt;f3&gt;C&lt;/f3&gt;ontributors a&lt;f4&gt;re&lt;/f4&gt; listed below.</seg>
       </tuv>
       <tuv lang="ja" changeid="ishikawa" changedate="20200322T031856Z" creationid="ishikawa" creationdate="20200322T031856Z">
