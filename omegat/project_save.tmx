@@ -286,6 +286,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>On Linux and Windows operating systems, go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; General&lt;/f0&gt; on the main menu bar to open the dialog for general options.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200322T075218Z" creationid="ishikawa" creationdate="20200322T075218Z">
+        <seg>Linux や Windowsシステムでは , &lt;f0&gt;ツール &gt; オプション &gt; LibreOffice &gt; 表示&lt;/f0&gt;により変更できます .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Other websites run by users also offer free tips and tutorials.</seg>
       </tuv>
       <tuv lang="ja" changeid="ishikawa" changedate="20200322T064946Z" creationid="ishikawa" creationdate="20200322T064946Z">
