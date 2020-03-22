@@ -150,6 +150,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You may be new to presentation software, or you may be familiar with another program such as &lt;s0/&gt;Microsoft PowerPoint.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200322T055246Z" creationid="ishikawa" creationdate="20200322T055246Z">
+        <seg>新しくプレゼンテーションソフトウェアを使う人、または &lt;s0/&gt;Microsoft PowerPoint のような他のプレゼンテーションソフトウェアをに使用している人向けです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You may distribute or modify it under the terms of either the GNU General Public License (&lt;a5&gt;http://www.gnu.org/licenses/gpl.html&lt;/a5&gt;), version 3 or later, or the Creative Commons Attribution License (&lt;a6&gt;&lt;f7&gt;http://creativecommons.org/licenses/by/4.0/&lt;/f7&gt;&lt;/a6&gt;), version &lt;f8&gt;4&lt;/f8&gt;.0 or later.</seg>
       </tuv>
       <tuv lang="ja" changeid="ishikawa" changedate="20200322T052721Z" creationid="ishikawa" creationdate="20200322T052721Z">
