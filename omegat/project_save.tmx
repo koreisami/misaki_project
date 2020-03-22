@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Alternatively, you can pay for support services&lt;f0&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200322T065506Z" creationid="ishikawa" creationdate="20200322T065506Z">
+        <seg>有償のサポートサービスも受けることができます&lt;f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Anyone who wants to get up to speed quickly with LibreOffice Impress will find this book valuable.</seg>
       </tuv>
       <tuv lang="ja" changeid="ishikawa" changedate="20200322T054748Z" creationid="ishikawa" creationdate="20200322T054748Z">
