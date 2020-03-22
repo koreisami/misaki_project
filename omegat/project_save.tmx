@@ -438,6 +438,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This document is Copyright &lt;f0&gt;©&lt;/f0&gt; &lt;f1&gt;2007–&lt;/f1&gt;201&lt;f2&gt;4&lt;/f2&gt; by &lt;f3&gt;the LibreOffice Documentation Team.&lt;/f3&gt; &lt;f4&gt;C&lt;/f4&gt;ontributors a&lt;f5&gt;re&lt;/f5&gt; listed below.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200322T080909Z" creationid="ishikawa" creationdate="20200322T080909Z">
+        <seg>このドキュメントは Copyright &lt;f0&gt;©&lt;/f0&gt; &lt;f1&gt;2007–&lt;/f1&gt;201&lt;f2&gt;4&lt;/f2&gt; by &lt;f3&gt;the LibreOffice Documentation Teamです。&lt;/f3&gt; &lt;f4&gt;&lt;/f4&gt;&lt;f5&gt;&lt;/f5&gt;この文章の貢献者は以下に列挙されています</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This document is Copyright &lt;f0&gt;©&lt;/f0&gt; &lt;f1&gt;2012–2014&lt;/f1&gt; by &lt;f2&gt;the LibreOffice Documentation Team.&lt;/f2&gt; &lt;f3&gt;C&lt;/f3&gt;ontributors a&lt;f4&gt;re&lt;/f4&gt; listed below.</seg>
       </tuv>
       <tuv lang="ja" changeid="ishikawa" changedate="20200322T031856Z" creationid="ishikawa" creationdate="20200322T031856Z">
