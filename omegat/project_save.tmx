@@ -214,6 +214,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Icons</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200322T080134Z" creationid="ishikawa" creationdate="20200322T080134Z">
+        <seg>アイコン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If Tips are enabled, place the mouse pointer over any of the icons to see a small box (“tooltip”) with a brief explanation of the icon’s function.</seg>
       </tuv>
       <tuv lang="ja" changeid="ishikawa" changedate="20200322T063407Z" creationid="ishikawa" creationdate="20200322T063407Z">
