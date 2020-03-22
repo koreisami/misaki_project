@@ -102,10 +102,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This book covers the main features of Impress, the presentations (slide show) component of LibreOffice.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200322T055510Z" creationid="ishikawa" creationdate="20200322T055303Z">
+        <seg>このドキュメントはLibereOffice のプレゼンテーションソフトウェアである、Impress の主な機能を網羅しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This document is Copyright &lt;f0&gt;©&lt;/f0&gt; &lt;f1&gt;2012–2014&lt;/f1&gt; by &lt;f2&gt;the LibreOffice Documentation Team.&lt;/f2&gt; &lt;f3&gt;C&lt;/f3&gt;ontributors a&lt;f4&gt;re&lt;/f4&gt; listed below.</seg>
       </tuv>
       <tuv lang="ja" changeid="ishikawa" changedate="20200322T031856Z" creationid="ishikawa" creationdate="20200322T031856Z">
         <seg>このドキュメントは Copyright &lt;f0&gt;©&lt;/f0&gt; &lt;f1&gt;2012–2014&lt;/f1&gt; by &lt;f2&gt;the LibreOffice Documentation Team です。&lt;/f2&gt; &lt;f3&gt;&lt;/f3&gt;この文章に関する貢献者は &lt;f4&gt;&lt;/f4&gt;以下に列挙されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Using Impress, you can create slides that contain text, bulleted and numbered lists, tables, charts, clip art, and other objects.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200322T055530Z" creationid="ishikawa" creationdate="20200322T055530Z">
+        <seg>wo bulleted and numbered lists, tables, charts, clip art, and other objects.</seg>
       </tuv>
     </tu>
     <tu>
@@ -144,8 +160,8 @@
       <tuv lang="en-US">
         <seg>Who wrote this book?</seg>
       </tuv>
-      <tuv lang="ja" changeid="ishikawa" changedate="20200322T054406Z" creationid="ishikawa" creationdate="20200322T054406Z">
-        <seg>だれがこの本を書いたか?</seg>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200322T055324Z" creationid="ishikawa" creationdate="20200322T054406Z">
+        <seg>だれがこのドキュメントを書いたか?</seg>
       </tuv>
     </tu>
     <tu>
