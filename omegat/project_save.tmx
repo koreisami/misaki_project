@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If Tips are enabled, place the mouse pointer over any of the icons to see a small box (“tooltip”) with a brief explanation of the icon’s function.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200322T063407Z" creationid="ishikawa" creationdate="20200322T063407Z">
+        <seg>If 追加情報が有効であるなら, アイコンにマウスポインターを近づけた時 (“ツールチップ”)と呼ばれる小さい箱が表示され、その機能の説明が表示されます。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Impress comes with prepackaged text styles, slide backgrounds, and Help.</seg>
       </tuv>
       <tuv lang="ja" changeid="ishikawa" changedate="20200322T060255Z" creationid="ishikawa" creationdate="20200322T060255Z">
