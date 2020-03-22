@@ -422,6 +422,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The contributors to that chapter are:&lt;/f9&gt;&lt;/f8&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200322T081606Z" creationid="ishikawa" creationdate="20200322T081606Z">
+        <seg>この章の貢献者:&lt;/f9&gt;&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The illustrations in this guide were taken from a variety of computers and operating systems.</seg>
       </tuv>
       <tuv lang="ja" changeid="ishikawa" changedate="20200322T074242Z" creationid="ishikawa" creationdate="20200322T074236Z">
