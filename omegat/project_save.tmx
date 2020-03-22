@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Accessibility options</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200322T073148Z" creationid="ishikawa" creationdate="20200322T073148Z">
+        <seg>利用しやすいオプション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Acknowledgements</seg>
       </tuv>
       <tuv lang="ja" changeid="ishikawa" changedate="20200322T054454Z" creationid="ishikawa" creationdate="20200322T054454Z">
@@ -210,6 +218,14 @@
       </tuv>
       <tuv lang="ja" changeid="ishikawa" changedate="20200322T063049Z" creationid="ishikawa" creationdate="20200322T063049Z">
         <seg>また 、追加情報や拡張情報、ヘルプエージェントを使用する場合 &lt;f2&gt;ツール &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;&gt;&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; オプション &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;&gt;&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; LibreOffice &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;&gt;&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; 全般&lt;/f11&gt;)で設定できます。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Information about available accessibility options.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200322T073236Z" creationid="ishikawa" creationdate="20200322T073236Z">
+        <seg>使用できる利用しやすいオプションについての情報</seg>
       </tuv>
     </tu>
     <tu>
@@ -394,6 +410,14 @@
       </tuv>
       <tuv lang="ja" changeid="ishikawa" changedate="20200322T054339Z" creationid="ishikawa" creationdate="20200322T054339Z">
         <seg>Mac でのLibreOffice の使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>What you see may be different</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200322T073346Z" creationid="ishikawa" creationdate="20200322T073346Z">
+        <seg>各ソフトウェアとの相違点</seg>
       </tuv>
     </tu>
     <tu>
