@@ -150,6 +150,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>See &lt;t0&gt;Table 1&lt;/t0&gt; and this web page: &lt;a1&gt;http://www.libreoffice.org/get-help/&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200322T064438Z" creationid="ishikawa" creationdate="20200322T064438Z">
+        <seg>See &lt;t0&gt;表 1&lt;/t0&gt; と次のウェブページを見てください: &lt;a1&gt;http://www.libreoffice.org/get-help/&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The LibreOffice community not only develops software, but provides free, volunteer-based support.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200322T064301Z" creationid="ishikawa" creationdate="20200322T064301Z">
+        <seg>The LibreOffice コミュニティはソフトウェアを開発するだけなく、フリーでボランティアのサポートも行っております。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This book covers the main features of Impress, the presentations (slide show) component of LibreOffice.</seg>
       </tuv>
       <tuv lang="ja" changeid="ishikawa" changedate="20200322T055510Z" creationid="ishikawa" creationdate="20200322T055303Z">
