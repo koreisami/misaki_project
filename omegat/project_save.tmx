@@ -422,6 +422,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To change to using LibreOffice dialogs:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200322T074952Z" creationid="ishikawa" creationdate="20200322T074952Z">
+        <seg>LibreOffice のダイアログの変更方法:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To display the full Help system, press &lt;f0&gt;F1&lt;/f0&gt; or select &lt;f1&gt;LibreOffice Help&lt;/f1&gt; from the Help menu.</seg>
       </tuv>
       <tuv lang="ja" changeid="ishikawa" changedate="20200322T062514Z" creationid="ishikawa" creationdate="20200322T062514Z">
