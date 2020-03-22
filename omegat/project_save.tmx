@@ -38,6 +38,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Free online support</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200322T054230Z" creationid="ishikawa" creationdate="20200322T054230Z">
+        <seg>フリーのオンラインサポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Help system</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200322T054213Z" creationid="ishikawa" creationdate="20200322T054213Z">
+        <seg>助けになる仕組み</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Please direct any comments or suggestions about this document to &lt;f0&gt;the Documentation Team’s mailing list&lt;/f0&gt;: &lt;a1&gt;documentation@global.libreoffice.org&lt;/a1&gt;</seg>
       </tuv>
       <tuv lang="ja" changeid="ishikawa" changedate="20200322T053334Z" creationid="ishikawa" creationdate="20200322T053334Z">
@@ -74,6 +90,38 @@
       </tuv>
       <tuv lang="ja" changeid="ishikawa" changedate="20200322T031856Z" creationid="ishikawa" creationdate="20200322T031856Z">
         <seg>このドキュメントは Copyright &lt;f0&gt;©&lt;/f0&gt; &lt;f1&gt;2012–2014&lt;/f1&gt; by &lt;f2&gt;the LibreOffice Documentation Team です。&lt;/f2&gt; &lt;f3&gt;&lt;/f3&gt;この文章に関する貢献者は &lt;f4&gt;&lt;/f4&gt;以下に列挙されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Using LibreOffice on a Mac</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200322T054339Z" creationid="ishikawa" creationdate="20200322T054339Z">
+        <seg>Mac でのLibreOffice の使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>What's in this book?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200322T054128Z" creationid="ishikawa" creationdate="20200322T054128Z">
+        <seg>このドキュメントは何か？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Where to get more help</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200322T054200Z" creationid="ishikawa" creationdate="20200322T054200Z">
+        <seg>より助けが欲しい場合どこを頼ればよいか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Who is this book for?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200322T054106Z" creationid="ishikawa" creationdate="20200322T054106Z">
+        <seg>このドキュメントは誰のためのものか？</seg>
       </tuv>
     </tu>
     <tu>
