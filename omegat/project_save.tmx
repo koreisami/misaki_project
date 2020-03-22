@@ -128,8 +128,8 @@
       <tuv lang="en-US">
         <seg>This book, the other &lt;f0&gt;LibreOffice&lt;/f0&gt; user guides, the built-in Help system, and user support systems assume that you are familiar with your computer and basic functions such as starting a program, opening and saving files.</seg>
       </tuv>
-      <tuv lang="ja" changeid="ishikawa" changedate="20200322T061418Z" creationid="ishikawa" creationdate="20200322T061418Z">
-        <seg>このドキュメント、他の&lt;f0&gt;LibreOffice&lt;/f0&gt;ユーザーガイド、ソフトウェアに組み込まれたヘルプ、ユーザーサポートシステムは基本的なプログラムの立ち上げ方やファイルの開き方 </seg>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200322T061628Z" creationid="ishikawa" creationdate="20200322T061418Z">
+        <seg>このドキュメント、他の&lt;f0&gt;LibreOffice&lt;/f0&gt;ユーザーガイド、ソフトウェアに組み込まれたヘルプ、ユーザーサポートシステムは基本的なプログラムの立ち上げ方やファイルの開き方、保存の仕方など基本的なものサポートを請け負います。 </seg>
       </tuv>
     </tu>
     <tu>
