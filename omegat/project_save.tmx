@@ -150,6 +150,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Paid support and training</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200322T065624Z" creationid="ishikawa" creationdate="20200322T065624Z">
+        <seg>有償のサポート及び訓練サービス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Please direct any comments or suggestions about this document to &lt;f0&gt;the Documentation Team’s mailing list&lt;/f0&gt;: &lt;a1&gt;documentation@global.libreoffice.org&lt;/a1&gt;</seg>
       </tuv>
       <tuv lang="ja" changeid="ishikawa" changedate="20200322T053334Z" creationid="ishikawa" creationdate="20200322T053334Z">
