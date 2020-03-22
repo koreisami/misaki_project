@@ -190,6 +190,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>International Support</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200322T072532Z" creationid="ishikawa" creationdate="20200322T072532Z">
+        <seg>国際的なサポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>International support</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200322T072605Z" creationid="ishikawa" creationdate="20200322T072605Z">
+        <seg>国際的なサポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It can open and save to Microsoft PowerPoint formats and can export to PDF, HTML, Adobe Flash, and numerous graphic formats.</seg>
       </tuv>
       <tuv lang="ja" changeid="ishikawa" changedate="20200322T060453Z" creationid="ishikawa" creationdate="20200322T060453Z">
@@ -274,6 +290,14 @@
       </tuv>
       <tuv lang="ja" changeid="ishikawa" changedate="20200322T064301Z" creationid="ishikawa" creationdate="20200322T064301Z">
         <seg>The LibreOffice コミュニティはソフトウェアを開発するだけなく、フリーでボランティアのサポートも行っております。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The LibreOffice website in your language.&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200322T072738Z" creationid="ishikawa" creationdate="20200322T072738Z">
+        <seg>あなたの言語でのLiberOffice のウェブサイト.&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
