@@ -358,6 +358,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select &lt;f0&gt;Use LibreOffice dialogs&lt;/f0&gt; in &lt;f1&gt;Open/Save dialogs&lt;/f1&gt; &lt;f2&gt;and, in Linux and Mac OS X operating systems only, &lt;/f2&gt;&lt;f3&gt;Print dialogs &lt;/f3&gt;to display the LibreOffice dialogs on your computer display.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200322T080022Z" creationid="ishikawa" creationdate="20200322T080022Z">
+        <seg>開く/保存 ダイアログ上で&lt;f0&gt;Use LibreOffice ダイアログ&lt;/f0&gt;  &lt;f1&gt;を選び&lt;/f1&gt; &lt;f2&gt;Linux と Mac OS X では, &lt;/f2&gt;&lt;f3&gt;印刷 ダイアログ &lt;/f3&gt;の表示をあなたのコンピュータの表示にしてください</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Table &lt;seq0&gt;1&lt;/seq0&gt;: Free support for LibreOffice users</seg>
       </tuv>
       <tuv lang="ja" changeid="ishikawa" changedate="20200322T070037Z" creationid="ishikawa" creationdate="20200322T070037Z">
