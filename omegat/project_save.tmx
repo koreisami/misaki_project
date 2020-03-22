@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It can open and save to Microsoft PowerPoint formats and can export to PDF, HTML, Adobe Flash, and numerous graphic formats.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200322T060453Z" creationid="ishikawa" creationdate="20200322T060453Z">
+        <seg>Impress はMicrosoft PowerPoinnt フォーマットのファイルを開いたり、保存することができます。また、スライドをPDF、Adobe Flash 動画や他のフォーマットにエクスポートできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Please direct any comments or suggestions about this document to &lt;f0&gt;the Documentation Team’s mailing list&lt;/f0&gt;: &lt;a1&gt;documentation@global.libreoffice.org&lt;/a1&gt;</seg>
       </tuv>
       <tuv lang="ja" changeid="ishikawa" changedate="20200322T053334Z" creationid="ishikawa" creationdate="20200322T053334Z">
