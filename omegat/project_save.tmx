@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For a more detailed explanation, select &lt;f0&gt;Help &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; What's This?&lt;/f3&gt;&lt;f4&gt; and hold the pointer over the icon.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200322T064156Z" creationid="ishikawa" creationdate="20200322T064156Z">
+        <seg>より詳細な説明が必要な場合,  &lt;f0&gt;ヘルプ &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;これは何？&lt;/f3&gt;&lt;f4&gt; を選びアイコンが固定化され、詳しい説明が表示されます。&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Free online support</seg>
       </tuv>
       <tuv lang="ja" changeid="ishikawa" changedate="20200322T054230Z" creationid="ishikawa" creationdate="20200322T054230Z">
