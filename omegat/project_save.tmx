@@ -598,6 +598,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The exact name and location of these menu entries depend on the operating system and graphical user interface.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200329T061243Z" creationid="ishikawa" creationdate="20200329T061243Z">
+        <seg>実際のアイコンの名前や場所は、オペレーティングシステムやユーザインタフェースの設定によって変わります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The illustrations in this guide were taken from a variety of computers and operating systems.</seg>
       </tuv>
       <tuv lang="ja" changeid="ishikawa" changedate="20200322T074242Z" creationid="ishikawa" creationdate="20200322T074236Z">
@@ -738,6 +746,22 @@
       </tuv>
       <tuv lang="ja" changeid="ishikawa" changedate="20200322T054128Z" creationid="ishikawa" creationdate="20200322T054128Z">
         <seg>このドキュメントは何か？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When LibreOffice was installed on your computer, in most cases a menu entry for each component was added to your system menu.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200329T061140Z" creationid="ishikawa" creationdate="20200329T061140Z">
+        <seg>LibreOfficeがコンピュータにインストールされていた場合, 大抵の場合、スタートメニューにすべてのコンポーネントが追加されています、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When you start Impress for the first time, the Presentation Wizard is shown &lt;f0&gt;by default&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200329T061408Z" creationid="ishikawa" creationdate="20200329T061408Z">
+        <seg>初めて、Impress を起動した時、デフォルトでプレゼンテーションウィザードが表示されます。&lt;f0&gt;&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
