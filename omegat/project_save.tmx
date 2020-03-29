@@ -32,8 +32,8 @@
       <tuv lang="en-US">
         <seg>&lt;f0&gt;&lt;f1&gt;From the LibreOffice Start Center, if no component is open: click on the &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Impress &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;Presentation icon &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;to create a new presentation&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;, &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;or click on the Open File icon and navigate to the folder where there is an existing presentation.&lt;/f11&gt;&lt;/f10&gt;</seg>
       </tuv>
-      <tuv lang="ja" changeid="ishikawa" changedate="20200329T055125Z" creationid="ishikawa" creationdate="20200329T055125Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;LibreOffice, if no component is open: click on the &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Impress &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;Presentation icon &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;to create a new presentation&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;, &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;or click on the Open File icon and navigate to the folder where there is an existing presentation.&lt;/f11&gt;&lt;/f10&gt;</seg>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200329T055638Z" creationid="ishikawa" creationdate="20200329T055125Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;LibreOffice Start Center から開く場合、もし、何も開いていない場合: &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Impress &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;プレゼンテーションアイコンをクリックし &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;プレゼンテーションの新規作成&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;, &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;またはファイルを開くアイコンをクリックしすでに存在しているプレゼンテーションのファイルを選択し開くことができます。&lt;/f11&gt;&lt;/f10&gt;</seg>
       </tuv>
     </tu>
     <tu>
