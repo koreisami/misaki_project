@@ -406,6 +406,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Note</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200329T061005Z" creationid="ishikawa" creationdate="20200329T061005Z">
+        <seg>メモ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Note for Mac users</seg>
       </tuv>
       <tuv lang="ja" changeid="ishikawa" changedate="20200322T081848Z" creationid="ishikawa" creationdate="20200322T081848Z">
