@@ -120,6 +120,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;If you prefer not to use the Presentation Wizard, select the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Do not show this wizard again&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; option before clicking &lt;/f3&gt;&lt;f4&gt;Create&lt;/f4&gt;&lt;f5&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200329T062820Z" creationid="ishikawa" creationdate="20200329T062820Z">
+        <seg>&lt;f0&gt;もし、プレゼンテーションウィザードの表示を消したい場合、 &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;&lt;/f4&gt;&lt;f5&gt;ウィザードを表示させないオプションをONとしてください。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;International mailing lists&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="ja" changeid="ishikawa" changedate="20200322T073008Z" creationid="ishikawa" creationdate="20200322T073008Z">
