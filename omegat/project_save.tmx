@@ -262,6 +262,15 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Impress also includes a spelling checker, a thesaurus, text styles, and background styles.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200329T051143Z" creationid="ishikawa" creationdate="20200329T051143Z">
+        <seg>
+また、Impress はスペルチェッカーや辞書、文字のスタイル、背景のスタイルも 組み込まれています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Impress comes with prepackaged text styles, slide backgrounds, and Help.</seg>
       </tuv>
       <tuv lang="ja" changeid="ishikawa" changedate="20200322T060255Z" creationid="ishikawa" creationdate="20200322T060255Z">
