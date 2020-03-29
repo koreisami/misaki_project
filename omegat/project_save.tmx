@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;From any open component of LibreOffice.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200329T060532Z" creationid="ishikawa" creationdate="20200329T060532Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;LibreOffice 内から開くことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;&lt;f1&gt;From the LibreOffice Start Center, if no component is open: click on the &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Impress &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;Presentation icon &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;to create a new presentation&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;, &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;or click on the Open File icon and navigate to the folder where there is an existing presentation.&lt;/f11&gt;&lt;/f10&gt;</seg>
       </tuv>
       <tuv lang="ja" changeid="ishikawa" changedate="20200329T055638Z" creationid="ishikawa" creationdate="20200329T055125Z">
@@ -210,6 +218,14 @@
       </tuv>
       <tuv lang="ja" changeid="ishikawa" changedate="20200322T080120Z" creationid="ishikawa" creationdate="20200322T080120Z">
         <seg> &lt;f0&gt;OK&lt;/f0&gt; をクリックし、設定を保存し、ダイアログを閉じてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click the triangle to the right of the &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;New&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; icon on the main &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;menu bar&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; and select &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;Presentation&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt; from the drop-down menu or choose &lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;File &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;&gt;&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt; New &lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;&gt;&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt; Presentation&lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt; &lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt;on&lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt;&lt;f29&gt; the &lt;/f29&gt;&lt;/f28&gt;&lt;f30&gt;&lt;f31&gt;main &lt;/f31&gt;&lt;/f30&gt;&lt;f32&gt;&lt;f33&gt;menu bar.&lt;/f33&gt;&lt;/f32&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200329T060957Z" creationid="ishikawa" creationdate="20200329T060957Z">
+        <seg>メインメニューバーの &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;新規作成 &gt; プレゼンテーションから開くことができます。&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt; &lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;&lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt; &lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt;&lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt;&lt;f29&gt; &lt;/f29&gt;&lt;/f28&gt;&lt;f30&gt;&lt;f31&gt; &lt;/f31&gt;&lt;/f30&gt;&lt;f32&gt;&lt;f33&gt;&lt;/f33&gt;&lt;/f32&gt;</seg>
       </tuv>
     </tu>
     <tu>
