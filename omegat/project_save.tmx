@@ -96,6 +96,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;The &lt;/f1&gt;&lt;/f0&gt;&lt;is2/&gt;&lt;f3&gt;&lt;f4&gt;main Impress window&lt;/f4&gt;&lt;/f3&gt;&lt;ie5/&gt;&lt;f6&gt;&lt;f7&gt; (&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;&lt;t10&gt;Figure 1&lt;/t10&gt;&lt;/f9&gt;&lt;/f8&gt;&lt;f11&gt;&lt;f12&gt;) has three parts: the &lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;&lt;f14&gt;Slides pane&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;&lt;f16&gt;, &lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt;&lt;f18&gt;Workspace&lt;/f18&gt;&lt;/f17&gt;&lt;f19&gt;&lt;f20&gt;, and &lt;/f20&gt;&lt;/f19&gt;&lt;f21&gt;&lt;f22&gt;Sidebar&lt;/f22&gt;&lt;/f21&gt;&lt;f23&gt;&lt;f24&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200329T063755Z" creationid="ishikawa" creationdate="20200329T063508Z">
+        <seg>&lt;f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;/f0&gt;&lt;is2/&gt;&lt;f3&gt;&lt;f4&gt;Impress メインウインドウ &lt;/f4&gt;&lt;/f3&gt;&lt;ie5/&gt;&lt;f6&gt;&lt;f7&gt; (&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;&lt;t10&gt;図 1&lt;/t10&gt;&lt;/f9&gt;&lt;/f8&gt;&lt;f11&gt;&lt;f12&gt;) ３つの部品より構成されます:  &lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;&lt;f14&gt;スライドパネ&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;&lt;f16&gt;, &lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt;&lt;f18&gt;ワークスペース&lt;/f18&gt;&lt;/f17&gt;&lt;f19&gt;&lt;f20&gt;、そして &lt;/f20&gt;&lt;/f19&gt;&lt;f21&gt;&lt;f22&gt;サイドバー&lt;/f22&gt;&lt;/f21&gt;&lt;f23&gt;&lt;f24&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;&lt;f1&gt;This chapter is based on Chapter 1 of the &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;OpenOffice.org 3.3 &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;Impress &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;Guide&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;.</seg>
       </tuv>
       <tuv lang="ja" changeid="ishikawa" changedate="20200322T081550Z" creationid="ishikawa" creationdate="20200322T081550Z">
