@@ -98,8 +98,8 @@
       <tuv lang="en-US">
         <seg>&lt;f0&gt;&lt;f1&gt;The &lt;/f1&gt;&lt;/f0&gt;&lt;is2/&gt;&lt;f3&gt;&lt;f4&gt;main Impress window&lt;/f4&gt;&lt;/f3&gt;&lt;ie5/&gt;&lt;f6&gt;&lt;f7&gt; (&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;&lt;t10&gt;Figure 1&lt;/t10&gt;&lt;/f9&gt;&lt;/f8&gt;&lt;f11&gt;&lt;f12&gt;) has three parts: the &lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;&lt;f14&gt;Slides pane&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;&lt;f16&gt;, &lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt;&lt;f18&gt;Workspace&lt;/f18&gt;&lt;/f17&gt;&lt;f19&gt;&lt;f20&gt;, and &lt;/f20&gt;&lt;/f19&gt;&lt;f21&gt;&lt;f22&gt;Sidebar&lt;/f22&gt;&lt;/f21&gt;&lt;f23&gt;&lt;f24&gt;.</seg>
       </tuv>
-      <tuv lang="ja" changeid="ishikawa" changedate="20200329T063755Z" creationid="ishikawa" creationdate="20200329T063508Z">
-        <seg>&lt;f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;/f0&gt;&lt;is2/&gt;&lt;f3&gt;&lt;f4&gt;Impress メインウインドウ &lt;/f4&gt;&lt;/f3&gt;&lt;ie5/&gt;&lt;f6&gt;&lt;f7&gt; (&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;&lt;t10&gt;図 1&lt;/t10&gt;&lt;/f9&gt;&lt;/f8&gt;&lt;f11&gt;&lt;f12&gt;) ３つの部品より構成されます:  &lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;&lt;f14&gt;スライドパネ&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;&lt;f16&gt;, &lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt;&lt;f18&gt;ワークスペース&lt;/f18&gt;&lt;/f17&gt;&lt;f19&gt;&lt;f20&gt;、そして &lt;/f20&gt;&lt;/f19&gt;&lt;f21&gt;&lt;f22&gt;サイドバー&lt;/f22&gt;&lt;/f21&gt;&lt;f23&gt;&lt;f24&gt;.</seg>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200329T064007Z" creationid="ishikawa" creationdate="20200329T063508Z">
+        <seg>&lt;f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;/f0&gt;&lt;is2/&gt;&lt;f3&gt;&lt;f4&gt;Impress メインウインドウ &lt;/f4&gt;&lt;/f3&gt;&lt;ie5/&gt;&lt;f6&gt;&lt;f7&gt; (&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;&lt;t10&gt;図 1&lt;/t10&gt;&lt;/f9&gt;&lt;/f8&gt;&lt;f11&gt;&lt;f12&gt;) ３つの部品より構成されます:  &lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;&lt;f14&gt;スライズパネ&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;&lt;f16&gt;, &lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt;&lt;f18&gt;ワークスペース&lt;/f18&gt;&lt;/f17&gt;&lt;f19&gt;&lt;f20&gt;、そして &lt;/f20&gt;&lt;/f19&gt;&lt;f21&gt;&lt;f22&gt;サイドバー&lt;/f22&gt;&lt;/f21&gt;&lt;f23&gt;&lt;f24&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -124,6 +124,14 @@
       </tuv>
       <tuv lang="ja" changeid="ishikawa" changedate="20200322T070542Z" creationid="ishikawa" creationdate="20200322T070542Z">
         <seg>&lt;f0&gt;よくある質問に対する回答&lt;/f0&gt;&lt;f1&gt;&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Figure &lt;/f0&gt;&lt;f1&gt;&lt;seq2&gt;1&lt;/seq2&gt;&lt;/f1&gt;&lt;f3&gt;: Main window of Impress; ovals indicate the Hide/Show markers&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200329T064340Z" creationid="ishikawa" creationdate="20200329T064000Z">
+        <seg>&lt;f0&gt;図 &lt;/f0&gt;&lt;f1&gt;&lt;seq2&gt;1&lt;/seq2&gt;&lt;/f1&gt;&lt;f3&gt;: Impress のメインウインドウ; 楕円形の赤丸が 隠す/ 表示のマーカーです。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -228,6 +236,14 @@
       </tuv>
       <tuv lang="ja" changeid="ishikawa" changedate="20200322T081509Z" creationid="ishikawa" creationdate="20200322T081509Z">
         <seg>謝辞</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Additionally, several toolbars can be displayed or hidden during the creation of a presentation.&lt;/f24&gt;&lt;/f23&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200329T063905Z" creationid="ishikawa" creationdate="20200329T063905Z">
+        <seg>加えて、多くのツールバーはプレゼンテーション作成中に表示されたり消えたりします。 &lt;/f24&gt;&lt;/f23&gt;</seg>
       </tuv>
     </tu>
     <tu>
