@@ -264,9 +264,8 @@
       <tuv lang="en-US">
         <seg>Impress also includes a spelling checker, a thesaurus, text styles, and background styles.</seg>
       </tuv>
-      <tuv lang="ja" changeid="ishikawa" changedate="20200329T051143Z" creationid="ishikawa" creationdate="20200329T051143Z">
-        <seg>
-また、Impress はスペルチェッカーや辞書、文字のスタイル、背景のスタイルも 組み込まれています。</seg>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200329T051155Z" creationid="ishikawa" creationdate="20200329T051143Z">
+        <seg>また、Impress はスペルチェッカーや辞書、文字のスタイル、背景のスタイルも 組み込まれています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -515,6 +514,14 @@
       </tuv>
       <tuv lang="ja" changeid="ishikawa" changedate="20200322T061628Z" creationid="ishikawa" creationdate="20200322T061418Z">
         <seg>このドキュメント、他の&lt;f0&gt;LibreOffice&lt;/f0&gt;ユーザーガイド、ソフトウェアに組み込まれたヘルプ、ユーザーサポートシステムは基本的なプログラムの立ち上げ方やファイルの開き方、保存の仕方など基本的なものサポートを請け負います。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This chapter introduces the Impress user interface and describes how to create a simple slide show using the Presentation Wizard.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200329T051400Z" creationid="ishikawa" creationdate="20200329T051400Z">
+        <seg>本章では、Impress のユーザインターフェースを紹介します。そして、プレゼンテーションウィザードを用いて、単純なスライドを作る方法を説明します。</seg>
       </tuv>
     </tu>
     <tu>
