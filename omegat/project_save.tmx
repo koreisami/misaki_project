@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;To use Impress for more than very simple slide shows requires some knowledge of the elements which the slides contain.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200329T051923Z" creationid="ishikawa" creationdate="20200329T051923Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;とてもシンプルなスライドショー以上をImpress で作りたい場合、スライドに入れ込みたい要素の知識が必要になります。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Answers to frequently asked questions&lt;/f0&gt;&lt;f1&gt;&lt;br2/&gt;</seg>
       </tuv>
       <tuv lang="ja" changeid="ishikawa" changedate="20200322T070542Z" creationid="ishikawa" creationdate="20200322T070542Z">
