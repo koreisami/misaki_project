@@ -29,6 +29,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>いまないはず。。。。</note>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;Click &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Create&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; to open the main Impress window.&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200329T062329Z" creationid="ishikawa" creationdate="20200329T062329Z">
+        <seg>&lt;f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en-US">
         <seg>&lt;f0&gt;&lt;f1&gt;Empty presentation&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;, which gives you a blank document&lt;/f2&gt;</seg>
       </tuv>
@@ -483,6 +492,14 @@
       </tuv>
       <tuv lang="ja" changeid="ishikawa" changedate="20200322T075519Z" creationid="ishikawa" creationdate="20200322T075519Z">
         <seg>Mac の場合、メインバー上の&lt;f0&gt;LibreOffice &gt; Preferences &gt; General&lt;/f0&gt;より設定できます。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open existing presentation</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200329T062115Z" creationid="ishikawa" creationdate="20200329T062115Z">
+        <seg>既存のプレゼンテーションを開く</seg>
       </tuv>
     </tu>
     <tu>
