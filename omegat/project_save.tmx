@@ -622,6 +622,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can create slides that contain many different elements, including text, bulleted and numbered lists, tables, charts, and a wide range of graphic objects such as clipart, drawings and photographs.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200329T050744Z" creationid="ishikawa" creationdate="20200329T050744Z">
+        <seg>ユーザは様々な要素を含んだスライドを作ることができます。様々な要素とは、テキスト、箇条書き、表、図、クリップアートのようなグラフィカルなもの、描画物や写真など多岐にわたります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can either use dialogs from your computer system (default) or dialogs provided by LibreOffice.</seg>
       </tuv>
       <tuv lang="ja" changeid="ishikawa" changedate="20200322T074924Z" creationid="ishikawa" creationdate="20200322T074924Z">
