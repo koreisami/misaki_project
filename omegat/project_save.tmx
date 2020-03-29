@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;From the LibreOffice Start Center, if no component is open: click on the &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Impress &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;Presentation icon &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;to create a new presentation&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;, &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;or click on the Open File icon and navigate to the folder where there is an existing presentation.&lt;/f11&gt;&lt;/f10&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200329T055125Z" creationid="ishikawa" creationdate="20200329T055125Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;LibreOffice, if no component is open: click on the &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Impress &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;Presentation icon &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;to create a new presentation&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;, &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;or click on the Open File icon and navigate to the folder where there is an existing presentation.&lt;/f11&gt;&lt;/f10&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;&lt;f1&gt;Note:&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Everything you send to a mailing list, including your email address and any other personal information that is written in the message, is publicly archived and cannot be deleted.&lt;/f4&gt;&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="ja" changeid="ishikawa" changedate="20200322T053813Z" creationid="ishikawa" creationdate="20200322T053813Z">
