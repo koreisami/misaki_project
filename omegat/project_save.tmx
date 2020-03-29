@@ -47,6 +47,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;For detailed instructions about how to use the Presentation Wizard, see “&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;&lt;bf4&gt;Creating a new presentation&lt;/bf4&gt;&lt;/f3&gt;&lt;/f2&gt;&lt;f5&gt;&lt;f6&gt;” on page &lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;&lt;bf9&gt;13&lt;/bf9&gt;&lt;/f8&gt;&lt;/f7&gt;&lt;f10&gt;&lt;f11&gt;.&lt;/f11&gt;&lt;/f10&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200329T062522Z" creationid="ishikawa" creationdate="20200329T062522Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;プレゼンテーションウィザードの使い方の詳細な説明は、&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;&lt;bf4&gt;&lt;/bf4&gt;&lt;/f3&gt;&lt;/f2&gt;&lt;f5&gt;&lt;f6&gt; &lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;&lt;bf9&gt;&lt;/bf9&gt;&lt;/f8&gt;&lt;/f7&gt;&lt;f10&gt;&lt;f11&gt;.&lt;/f11&gt;&lt;/f10&gt;新規のプレゼンテーションの作成の１３ページを参照してください</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;&lt;f1&gt;From any open component of LibreOffice.</seg>
       </tuv>
       <tuv lang="ja" changeid="ishikawa" changedate="20200329T060532Z" creationid="ishikawa" creationdate="20200329T060532Z">
