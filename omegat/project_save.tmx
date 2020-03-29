@@ -222,6 +222,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Details vary with your operating system; see the &lt;/f0&gt;&lt;f1&gt;Getting Started Guide Chapter 1 Introducing LibreOffice&lt;/f1&gt;&lt;f2&gt;.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200329T060200Z" creationid="ishikawa" creationdate="20200329T060200Z">
+        <seg>オペレーティングシステム間の詳細な差分は; &lt;/f0&gt;&lt;f1&gt;Getting Started Guide LibreOffice&lt;/f1&gt;&lt;f2&gt;の１章を見てください。&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Documentation</seg>
       </tuv>
       <tuv lang="ja" changeid="ishikawa" changedate="20200322T070205Z" creationid="ishikawa" creationdate="20200322T070205Z">
@@ -386,6 +394,30 @@
       </tuv>
       <tuv lang="ja" changeid="ishikawa" changedate="20200322T075218Z" creationid="ishikawa" creationdate="20200322T075218Z">
         <seg>Linux や Windowsシステムでは , &lt;f0&gt;ツール &gt; オプション &gt; LibreOffice &gt; 表示&lt;/f0&gt;により変更できます .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>On Linux with a Gnome desktop, it is called the Applications menu; on a KDE desktop, it is identified by the KDE logo.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200329T060030Z" creationid="ishikawa" creationdate="20200329T060030Z">
+        <seg>Linux の場合、 Gnome デスクトップの場合, アプリケーションメニューから; KDEデスクトップの場合, KDE ロゴボタンから開くことができます。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>On Mac OS X, it is the Applications menu.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200329T060059Z" creationid="ishikawa" creationdate="20200329T060059Z">
+        <seg>Mac OS Xの場合、 アプリケーションメニューから開けます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>On Windows, it is called the Start menu.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200329T055908Z" creationid="ishikawa" creationdate="20200329T055908Z">
+        <seg>Windows 場合、スタートメニューから開くことができます。</seg>
       </tuv>
     </tu>
     <tu>
