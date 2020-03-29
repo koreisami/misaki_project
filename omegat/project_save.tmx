@@ -152,6 +152,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;M&lt;/f0&gt;ain Impress window</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200329T063447Z" creationid="ishikawa" creationdate="20200329T063447Z">
+        <seg>&lt;f0&gt;&lt;/f0&gt;Impress のメインウインドウ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;On Windows, use the Presentation selection in the LibreOffice Quickstarter.</seg>
       </tuv>
       <tuv lang="ja" changeid="ishikawa" changedate="20200329T060332Z" creationid="ishikawa" creationdate="20200329T060212Z">
