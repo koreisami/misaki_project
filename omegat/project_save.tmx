@@ -198,6 +198,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Creating drawings in Impress is similar to using the Draw program included in LibreOffice&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200329T052327Z" creationid="ishikawa" creationdate="20200329T052327Z">
+        <seg>Impress で描画を行う場合、LibreOffice のDraw のようなものを使う必要があります。&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Documentation</seg>
       </tuv>
       <tuv lang="ja" changeid="ishikawa" changedate="20200322T070205Z" creationid="ishikawa" creationdate="20200322T070205Z">
@@ -442,6 +450,14 @@
       </tuv>
       <tuv lang="ja" changeid="ishikawa" changedate="20200322T080022Z" creationid="ishikawa" creationdate="20200322T080022Z">
         <seg>開く/保存 ダイアログ上で&lt;f0&gt;Use LibreOffice ダイアログ&lt;/f0&gt;  &lt;f1&gt;を選び&lt;/f1&gt; &lt;f2&gt;Linux と Mac OS X では, &lt;/f2&gt;&lt;f3&gt;印刷 ダイアログ &lt;/f3&gt;の表示をあなたのコンピュータの表示にしてください</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Slides containing text use styles to determine the appearance of that text.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200329T052151Z" creationid="ishikawa" creationdate="20200329T052151Z">
+        <seg>テキストを用いたスライドを作る場合、そのテキストの外見を決める必要があります。</seg>
       </tuv>
     </tu>
     <tu>
