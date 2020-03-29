@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;From the system menu, the standard menu from which most applications are started.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200329T055833Z" creationid="ishikawa" creationdate="20200329T055833Z">
+        <seg>&lt;f0&gt;システムメニューから開く場合、大抵のアプリケーションが有る場所から開始することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;International mailing lists&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="ja" changeid="ishikawa" changedate="20200322T073008Z" creationid="ishikawa" creationdate="20200322T073008Z">
