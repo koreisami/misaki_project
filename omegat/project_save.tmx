@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;On Windows, use the Presentation selection in the LibreOffice Quickstarter.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200329T060332Z" creationid="ishikawa" creationdate="20200329T060212Z">
+        <seg>&lt;f0&gt;Windows の場合 LibreOffice クイックスタートでプレゼンテーションを選ぶことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Questions and answers from the LibreOffice community&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="ja" changeid="ishikawa" changedate="20200322T070155Z" creationid="ishikawa" creationdate="20200322T070155Z">
@@ -506,6 +514,14 @@
       </tuv>
       <tuv lang="ja" changeid="ishikawa" changedate="20200322T080022Z" creationid="ishikawa" creationdate="20200322T080022Z">
         <seg>開く/保存 ダイアログ上で&lt;f0&gt;Use LibreOffice ダイアログ&lt;/f0&gt;  &lt;f1&gt;を選び&lt;/f1&gt; &lt;f2&gt;Linux と Mac OS X では, &lt;/f2&gt;&lt;f3&gt;印刷 ダイアログ &lt;/f3&gt;の表示をあなたのコンピュータの表示にしてください</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Similar functions exist for Mac &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;OS X &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;and Linux; see &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;the &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;Getting Started Guide &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;Chapter 1 Introducing LibreOffice&lt;/f8&gt;&lt;f9&gt;.&lt;/f9&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200329T060501Z" creationid="ishikawa" creationdate="20200329T060501Z">
+        <seg>同様の機能が、Mac &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;OS X &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;やLinux にも有ります; &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;Getting Started Guide &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;LibreOffice の１章を参照してください。&lt;/f8&gt;&lt;f9&gt;.&lt;/f9&gt;</seg>
       </tuv>
     </tu>
     <tu>
