@@ -446,6 +446,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>See the &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Draw Guide&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; for more details on how to use the drawing tools.&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200329T052414Z" creationid="ishikawa" creationdate="20200329T052414Z">
+        <seg>描画ツールの使用方法の詳細は &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Draw Guide&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;を見てください。&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select &lt;f0&gt;Use LibreOffice dialogs&lt;/f0&gt; in &lt;f1&gt;Open/Save dialogs&lt;/f1&gt; &lt;f2&gt;and, in Linux and Mac OS X operating systems only, &lt;/f2&gt;&lt;f3&gt;Print dialogs &lt;/f3&gt;to display the LibreOffice dialogs on your computer display.</seg>
       </tuv>
       <tuv lang="ja" changeid="ishikawa" changedate="20200322T080022Z" creationid="ishikawa" creationdate="20200322T080022Z">
@@ -682,6 +690,14 @@
       </tuv>
       <tuv lang="ja" changeid="ishikawa" changedate="20200322T074924Z" creationid="ishikawa" creationdate="20200322T074924Z">
         <seg>あなたは、システムのデフォルトのダイアログまたはLibreOffice から配布された時のダイアログを使用することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can start Impress in several ways:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200329T052504Z" creationid="ishikawa" creationdate="20200329T052504Z">
+        <seg>ユーザは様々な方法でImpress を始めれます。:</seg>
       </tuv>
     </tu>
     <tu>
