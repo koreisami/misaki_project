@@ -486,6 +486,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The other chapters in this guide explain all the features available in Impress that can be used to create more sophisticated slide shows.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200329T051658Z" creationid="ishikawa" creationdate="20200329T051658Z">
+        <seg>このガイドの他の章は、Impress で利用可能なすべての機能が説明されています。そしてそれを使用することで、より洗練されたスライドショーを作ることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The table below gives some common substitutions for the instructions in this chapter.</seg>
       </tuv>
       <tuv lang="ja" changeid="ishikawa" changedate="20200322T085417Z" creationid="ishikawa" creationdate="20200322T085417Z">
