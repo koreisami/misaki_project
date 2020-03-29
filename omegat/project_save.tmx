@@ -30,10 +30,27 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;Empty presentation&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;, which gives you a blank document&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200329T061549Z" creationid="ishikawa" creationdate="20200329T061549Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;空のプレゼンテーション&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;、これはまっさらなドキュメントが表示されます。&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;&lt;f1&gt;From any open component of LibreOffice.</seg>
       </tuv>
       <tuv lang="ja" changeid="ishikawa" changedate="20200329T060532Z" creationid="ishikawa" creationdate="20200329T060532Z">
         <seg>&lt;f0&gt;&lt;f1&gt;LibreOffice 内から開くことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>今このシーケンス違う。。。</note>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;&lt;f1&gt;From template,&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; which is a presentation designed with a template of your choice&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200329T062058Z" creationid="ishikawa" creationdate="20200329T062058Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;テンプレートから&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; 、これは予めデザインされたテンプレートをユーザが選んで作り始めます。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -298,6 +315,14 @@
       </tuv>
       <tuv lang="ja" changeid="ishikawa" changedate="20200322T054213Z" creationid="ishikawa" creationdate="20200322T054213Z">
         <seg>助けになる仕組み</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Here you can choose from the following options:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="ishikawa" changedate="20200329T061510Z" creationid="ishikawa" creationdate="20200329T061510Z">
+        <seg>次の選択肢が表示され、選ぶことができます。:</seg>
       </tuv>
     </tu>
     <tu>
